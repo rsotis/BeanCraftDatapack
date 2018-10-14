@@ -13,3 +13,4 @@ Datapack Contains the following changes from vanilla minecraft:
 * Shulker Shell Update (From HermitCraft)
 * Dragon Drops Elytra (From HermitCraft)
 * More Bricks (From HermitCraft)
+* Renewable Coral (From HermitCraft)
