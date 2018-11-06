@@ -14,3 +14,4 @@ Datapack Contains the following changes from vanilla minecraft:
 * Dragon Drops Elytra (From HermitCraft)
 * More Bricks (From HermitCraft)
 * Renewable Coral (From HermitCraft)
+* Craftable Horse Armor
