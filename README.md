@@ -15,3 +15,4 @@ Datapack Contains the following changes from vanilla minecraft:
 * More Bricks (From HermitCraft)
 * Renewable Coral (From HermitCraft)
 * Craftable Horse Armor
+* Sandstone to Sand Recipes
