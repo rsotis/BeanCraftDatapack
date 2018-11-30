@@ -16,3 +16,4 @@ Datapack Contains the following changes from vanilla minecraft:
 * Renewable Coral (From HermitCraft)
 * Craftable Horse Armor
 * Sandstone to Sand Recipes
+* Craftable Shulker Shell
