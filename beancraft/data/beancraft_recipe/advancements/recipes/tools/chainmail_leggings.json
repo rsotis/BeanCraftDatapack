@@ -1,0 +1,43 @@
+{
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_chainarmor": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:chainmail_leggings"
+					}
+				]
+			}
+		},
+		"has_iron": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:iron_nugget"
+					}
+				]
+			}
+		},
+		"has_the_recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "beancraft_recipe:chainmail_leggings"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_chainarmor",
+			"has_iron",
+			"has_the_recipe"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"beancraft_recipe:chainmail_leggings"
+		]
+	}
+}

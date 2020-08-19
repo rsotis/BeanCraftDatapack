@@ -1,0 +1,43 @@
+{
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_nautilus": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:nautilus_shell"
+					}
+				]
+			}
+		},
+		"has_chorus": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:popped_chorus_fruit"
+					}
+				]
+			}
+		},
+		"has_the_recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "beancraft_recipe:shulker_shell"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_nautilus",
+			"has_chorus",
+			"has_the_recipe"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"beancraft_recipe:shulker_shell"
+		]
+	}
+}
