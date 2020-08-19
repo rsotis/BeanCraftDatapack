@@ -1,6 +1,6 @@
 # BeanCraft Datapack
 Minecraft Datapack for BeanCraft Server
-Version 1.2
+Version 1.3
 
 Datapack Contains the following changes from vanilla minecraft:
 
@@ -9,7 +9,6 @@ Datapack Contains the following changes from vanilla minecraft:
 * Custom armour recipes
   * Recipes for chainmail armour using iron nuggets and leather armour
   * Craftable Horse Armour
-* Double Slab Recipes (From HermitCraft)
 * More Stairs 4 to 8 (From HermitCraft)
 * Shulker Shell Update (From HermitCraft)
 * Dragon Drops Elytra (From HermitCraft)
